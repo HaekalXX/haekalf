@@ -1,3 +1,8 @@
+//Nama        : Muhammad Haekal Fadhlanarsy
+//Nim         : 152021136
+//Kelas       : E
+//Matakuliah  : Pemrograman Dasar
+
 #include <iostream>
 #include <string>
 
