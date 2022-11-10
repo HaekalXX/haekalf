@@ -8,7 +8,7 @@
 
 using namespace std;
 
-int maeihun()
+int main()
 {
   int pin;
   int i;
